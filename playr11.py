@@ -1,5 +1,5 @@
-bbc=input()
-if(bbc=='Saturday' or bbc=='Sunday'):
+bb=input()
+if(bb=='Saturday' or bb=='Sunday'):
   print("yes")
 else:
   print("no")
